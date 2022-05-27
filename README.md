@@ -1,6 +1,3 @@
-Disclaimer:
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-
 ## Animation 2 Flipbook
 This package allows converting rigged animations to sequence of frames (flipbook).
 
@@ -12,9 +9,11 @@ Here is a [short video](https://youtu.be/puZ3UtfOREI) that shows an example of h
 ### Converting Animations to Sequence of Images
 
 Select **Tools** -> **Animation 2 Flipbook** from the top menu.
+
 ![Tools -> Animation 2 Flipbook](Images~/Screenshot_OpenWindow.png)
 
 This will open a new window:
+
 ![Animation 2 Flipbook window](Images~/Screenshot_Window.png)
 
 1. To start converting animations to sequences of frames, select a prefab of an object or a character that you want to use. To do that drag & drop prefab from your Assets folder onto the ''**Object to Animate**'' field.
@@ -46,9 +45,13 @@ To make sure that non of the parts are outside of the final image during animati
 Animation 2 Flipbook can be installed as a package. This [Unity Documentation](https://docs.unity3d.com/Manual/upm-ui-giturl.html) explains how to install git packages.
 1. Select **Window** -> **Package Manager** to open **Package Manger**.
 2. Click on the '**+**' button and select '**Add package from git URL..**' from the dropdown.
+
 ![Add package from git URL..](Images~/Screenshot_PackageInstallation_00.png)
+
 3. Paste the git url into the text field 'https://github.com/MarekMarchlewicz/Animation2Flipbook.git' and press '**Add**' button.
+
 ![Add package](Images~/Screenshot_PackageInstallation_01.png)
 
 After successful installation Animation 2 Flipbook package should appear in the Package Manger:
+
 ![Package installed correctly](Images~/Screenshot_PackageInstallation_02.png)
