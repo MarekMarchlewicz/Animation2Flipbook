@@ -1,0 +1,14 @@
+{
+    "name": "animation2flipbook", 
+    "version": "0.0.1", 
+    "unity": "2022.2", 
+    "displayName": "Animation 2 Flipbook", 
+    "description": "This package allows converting a bone-based animation to frame-by-frame / sprite sheet animation.", 
+    "keywords": [
+        "animation"
+    ], 
+    "dependencies": {
+        "com.unity.recorder": "3.0.3",
+        "com.unity.2d.animation" : "7.0.5" 
+    }
+}
